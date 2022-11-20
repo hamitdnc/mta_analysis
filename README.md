@@ -1,1 +1,1 @@
-# The aim of this project is t do EDA analysis of Turnstile 
+# The aim of this project is to do EDA analysis of Turnstile 
